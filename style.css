@@ -1,0 +1,15 @@
+.to-doee {
+    position: fixed;
+    left: 0%;
+    top: 14%;
+    width: 80%;
+    text-align: center;
+}
+
+.task {
+    width: 66.5%;
+    height: auto;
+    position: fixed;
+    top: 24%;
+    left: 6.7%;
+}
